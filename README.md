@@ -6,3 +6,5 @@ Do the following
 git remote add live  ssh://root@geoverifi.com/var/repo/traxx.git
 
 You can do the simple pull request or fetch request
+
+George has all the passwords
